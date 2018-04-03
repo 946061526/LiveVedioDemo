@@ -1,0 +1,8 @@
+C:\Users\20170109\Documents\Visual Studio 2013\Projects\LiveVedioDemo\aliyun-net-sdk-live\obj\Debug\aliyun-net-sdk-live.csprojResolveAssemblyReference.cache
+C:\Users\20170109\Documents\Visual Studio 2013\Projects\LiveVedioDemo\aliyun-net-sdk-live\bin\Debug\Regions\endpoints.xml
+C:\Users\20170109\Documents\Visual Studio 2013\Projects\LiveVedioDemo\aliyun-net-sdk-live\bin\Debug\aliyun-net-sdk-live.dll
+C:\Users\20170109\Documents\Visual Studio 2013\Projects\LiveVedioDemo\aliyun-net-sdk-live\bin\Debug\aliyun-net-sdk-live.pdb
+C:\Users\20170109\Documents\Visual Studio 2013\Projects\LiveVedioDemo\aliyun-net-sdk-live\bin\Debug\aliyun-net-sdk-core.dll
+C:\Users\20170109\Documents\Visual Studio 2013\Projects\LiveVedioDemo\aliyun-net-sdk-live\bin\Debug\aliyun-net-sdk-core.pdb
+C:\Users\20170109\Documents\Visual Studio 2013\Projects\LiveVedioDemo\aliyun-net-sdk-live\obj\Debug\aliyun-net-sdk-live.dll
+C:\Users\20170109\Documents\Visual Studio 2013\Projects\LiveVedioDemo\aliyun-net-sdk-live\obj\Debug\aliyun-net-sdk-live.pdb

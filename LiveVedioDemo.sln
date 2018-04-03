@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveVedioWeb", "LiveVedioWeb\LiveVedioWeb.csproj", "{5C000C7F-B099-4DDE-8114-EFE7719F6C33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveVedioAdmin", "LiveVedioAdmin\LiveVedioAdmin.csproj", "{103A8F15-147C-437E-9FFC-C8AF1C593F5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveVedioApi", "LiveVedioApi\LiveVedioApi.csproj", "{F76A3CC2-B340-4608-89B1-4BBFBF458D40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C000C7F-B099-4DDE-8114-EFE7719F6C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C000C7F-B099-4DDE-8114-EFE7719F6C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C000C7F-B099-4DDE-8114-EFE7719F6C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C000C7F-B099-4DDE-8114-EFE7719F6C33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103A8F15-147C-437E-9FFC-C8AF1C593F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103A8F15-147C-437E-9FFC-C8AF1C593F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103A8F15-147C-437E-9FFC-C8AF1C593F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103A8F15-147C-437E-9FFC-C8AF1C593F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76A3CC2-B340-4608-89B1-4BBFBF458D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76A3CC2-B340-4608-89B1-4BBFBF458D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76A3CC2-B340-4608-89B1-4BBFBF458D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76A3CC2-B340-4608-89B1-4BBFBF458D40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

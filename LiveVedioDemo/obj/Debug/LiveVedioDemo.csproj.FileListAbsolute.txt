@@ -1,0 +1,12 @@
+c:\users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioDemo\bin\Debug\LiveVedioDemo.exe
+c:\users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioDemo\bin\Debug\LiveVedioDemo.pdb
+c:\users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioDemo\obj\Debug\LiveVedioDemo.csprojResolveAssemblyReference.cache
+c:\users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioDemo\obj\Debug\LiveVedioDemo.exe
+c:\users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioDemo\obj\Debug\LiveVedioDemo.pdb
+c:\users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioDemo\bin\Debug\Regions\endpoints.xml
+c:\users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioDemo\bin\Debug\aliyun-net-sdk-core.dll
+c:\users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioDemo\bin\Debug\aliyun-net-sdk-live.dll
+c:\users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioDemo\bin\Debug\aliyun-net-sdk-core.pdb
+c:\users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioDemo\bin\Debug\aliyun-net-sdk-live.pdb
+c:\users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioDemo\bin\Debug\LiveVedioDemo.exe.config
+c:\users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioDemo\bin\Debug\Newtonsoft.Json.dll

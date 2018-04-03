@@ -1,0 +1,18 @@
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioApi\bin\Debug\LiveVedioApi.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioApi\bin\Debug\LiveVedioApi.pdb
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioApi\bin\Debug\aliyun-net-sdk-core.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioApi\bin\Debug\aliyun-net-sdk-live.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioApi\bin\Debug\aliyun-net-sdk-core.pdb
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioApi\bin\Debug\aliyun-net-sdk-live.pdb
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioApi\obj\Debug\LiveVedioApi.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioApi\obj\Debug\LiveVedioApi.pdb
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioApi\obj\Debug\LiveVedioApi.csprojResolveAssemblyReference.cache
+E:\LiveVedioDemo\LiveVedioApi\bin\Debug\LiveVedioApi.dll
+E:\LiveVedioDemo\LiveVedioApi\bin\Debug\LiveVedioApi.pdb
+E:\LiveVedioDemo\LiveVedioApi\bin\Debug\aliyun-net-sdk-core.dll
+E:\LiveVedioDemo\LiveVedioApi\bin\Debug\aliyun-net-sdk-live.dll
+E:\LiveVedioDemo\LiveVedioApi\bin\Debug\aliyun-net-sdk-core.pdb
+E:\LiveVedioDemo\LiveVedioApi\bin\Debug\aliyun-net-sdk-live.pdb
+E:\LiveVedioDemo\LiveVedioApi\obj\Debug\LiveVedioApi.csprojResolveAssemblyReference.cache
+E:\LiveVedioDemo\LiveVedioApi\obj\Debug\LiveVedioApi.dll
+E:\LiveVedioDemo\LiveVedioApi\obj\Debug\LiveVedioApi.pdb

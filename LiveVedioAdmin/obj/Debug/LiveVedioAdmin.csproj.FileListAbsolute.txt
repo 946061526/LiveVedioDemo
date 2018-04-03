@@ -1,0 +1,82 @@
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\LiveVedioAdmin.dll.config
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\LiveVedioAdmin.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\LiveVedioAdmin.pdb
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.Core.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\EntityFramework.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\System.Web.Providers.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\System.Net.Http.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\EntityFramework.xml
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.Core.xml
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\System.Net.Http.xml
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\zh-Hans\System.Web.Providers.resources.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\zh-Hans\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\obj\Debug\LiveVedioAdmin.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\obj\Debug\LiveVedioAdmin.pdb
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\aliyun-net-sdk-core.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\aliyun-net-sdk-live.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\aliyun-net-sdk-core.pdb
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\aliyun-net-sdk-live.pdb
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\obj\Debug\LiveVedioAdmin.csprojResolveAssemblyReference.cache
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\LiveVedioApi.dll
+C:\Users\20170109\documents\visual studio 2013\Projects\LiveVedioDemo\LiveVedioAdmin\bin\LiveVedioApi.pdb
+E:\LiveVedioDemo\LiveVedioAdmin\bin\LiveVedioAdmin.dll.config
+E:\LiveVedioDemo\LiveVedioAdmin\bin\LiveVedioAdmin.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\LiveVedioAdmin.pdb
+E:\LiveVedioDemo\LiveVedioAdmin\bin\aliyun-net-sdk-core.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\aliyun-net-sdk-live.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\AspNet.ScriptManager.jQuery.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.AspNet.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.Core.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.OAuth.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.OpenId.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\EntityFramework.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\LiveVedioApi.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\Microsoft.Web.Infrastructure.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\System.Web.Providers.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\System.Net.Http.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\LiveVedioApi.pdb
+E:\LiveVedioDemo\LiveVedioAdmin\bin\aliyun-net-sdk-core.pdb
+E:\LiveVedioDemo\LiveVedioAdmin\bin\aliyun-net-sdk-live.pdb
+E:\LiveVedioDemo\LiveVedioAdmin\bin\EntityFramework.xml
+E:\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.Core.xml
+E:\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.OAuth.xml
+E:\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.OpenId.xml
+E:\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\LiveVedioDemo\LiveVedioAdmin\bin\DotNetOpenAuth.AspNet.xml
+E:\LiveVedioDemo\LiveVedioAdmin\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\LiveVedioDemo\LiveVedioAdmin\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\LiveVedioDemo\LiveVedioAdmin\bin\System.Net.Http.xml
+E:\LiveVedioDemo\LiveVedioAdmin\bin\zh-Hans\EntityFramework.resources.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\zh-Hans\System.Web.Providers.resources.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\zh-Hans\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\LiveVedioDemo\LiveVedioAdmin\bin\zh-Hans\System.Net.Http.resources.dll
+E:\LiveVedioDemo\LiveVedioAdmin\obj\Debug\LiveVedioAdmin.csprojResolveAssemblyReference.cache
+E:\LiveVedioDemo\LiveVedioAdmin\obj\Debug\LiveVedioAdmin.dll
+E:\LiveVedioDemo\LiveVedioAdmin\obj\Debug\LiveVedioAdmin.pdb
